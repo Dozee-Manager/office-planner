@@ -1,0 +1,4 @@
+body { margin: 0; padding: 0; background: #f7f7f8; color: #111; }
+input, select, textarea, button { padding: 8px; border: 1px solid #ccc; border-radius: 6px; }
+button { cursor: pointer; background: #1976d2; color: white; border: none; }
+button:hover { opacity: 0.9; }
